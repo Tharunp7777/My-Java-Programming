@@ -1,0 +1,106 @@
+Day-1
+------
+Install Java
+Eclipse (IDE)/IntelliJ etc..
+
+Installing java
+------------------------------------------------------------
+Download JDK11
+----------
+http://download.oracle.com/otn-pub/java/jdk/11.0.2+9/f51449fcd52f4d52b93a989c5c56ed3c/jdk-11.0.2_windows-x64_bin.exe
+
+Download JRE
+-------
+https://download.oracle.com/otn-pub/java/jdk/8u202-b08/1961070e4c9b4e26a04e7f5a083f551e/jre-8u202-windows-x64.exe
+
+Install JDK & JRE....by clicking .exe files
+
+Default location of java: C:\Program Files\Java
+
+Set path variable.(MyPC-->Properties-->Environment variables-->path)
+
+Eclipse
+----------------------------------------------------------
+Download link: https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2018-12/R/eclipse-inst-win64.exe&mirror_id=518
+
+
+Java Variables
+Java Data Types
+Java Operators
+
+
+int a;  //declaration
+a=100; //initilization
+
+int a=100 ;   //declaration+initilization
+
+
+2 kinds of data types
+----
+1) Premitive --int, double, boolean,char...
+2) Derived --> String, Arraylist, Hashmap, set, List etc...
+
+
+10+20 = 30
+
+"welcome" + "selenium"   = welcome selenium
+
+"welcome" + 10 =     welcome 10
+
+
+
+
+10/2  ---> 5
+10%2  ---> 0
+ 
+a	b	a && b	a || b	!a
+TRUE	TRUE	TRUE	TRUE	FALSE
+TRUE	FALSE	FALSE	TRUE	
+FALSE	TRUE	FALSE	TRUE	TRUE
+FALSE	FALSE	FALSE	FALSE	
+
+increment & Decremetn operators
+-------
+
+a=10
+
+a=a+1   --> 11
+
+a++   --->11
+
+
+a=10
+a=a-10   ---9
+
+a--
+
+Assignment
+------------
+1) Write a Java program to print 'Hello' on screen and then print your name on a separate line.
+Expected Output : 
+Hello 
+Your name
+
+2) Write a Java program to print the sum of two numbers. 
+Test Data: 4 + 36 
+Expected Output : 50
+
+3) Write a Java program to swap two numbers.
+
+Write a Java Program to swap two numbers without using third variable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
