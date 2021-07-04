@@ -1,0 +1,113 @@
+Day-2
+------
+Control statements
+--------
+Conditional(Selection)
+Looping statements(Iterative)
+jumping statemetns( break, continue)
+
+Conditional(Selection)
+-------
+if..else
+switch case
+---------
+
+1) A number is even or odd
+
+num%2 == 0
+
+if(condition)
+{
+//staments..
+}
+else
+{
+statmetns;
+}
+
+2) Largest 2 numbers
+
+3) Largest of 3 number
+
+	x,y,z
+
+x > y & z  --> x is largest
+y >x & z --> y is largest
+z> x & y -->z is largest
+
+3) Input week number , print name of the week(Nested if..else statement)
+
+switch case
+-----------
+switch(varaible)
+{
+case 1: statements; break;
+case2 : statements;break;
+--
+---
+
+default: statements
+}
+
+
+
+Loops
+-----
+while
+do..while
+for loop
+----------------
+
+while(condition)
+{
+statements;
+}
+
+
+1) print 1...10 numbers
+2) print only even numbers between 1..10
+
+
+do..while
+------------
+do
+{
+statements;
+}while(condition);
+
+for loop
+-------------
+
+
+
+Assignments
+-------------
+1) Write a Java program to check a number it is positive or negative.
+
+2) Write a Java program to find greatest of 3 numbers.
+
+3) Write a program in Java to display the multiplication table of 5. 
+
+Expected Output :
+5 X 0 = 0
+5 X 1 = 5
+5 X 2 = 10 
+----------
+------------
+5 X10 = 50 
+
+4)Write a Java program count the number of digits of the number.
+5) Java program to reverse a number.
+6) Check a number is palidrome or not
+
+
+
+
+
+
+
+
+
+
+
+
