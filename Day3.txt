@@ -1,0 +1,45 @@
+Day-4
+--------
+Arrays
+
+
+Array is collection of elements of same data type.
+
+Types of arrays
+-----------
+1) Single dimensional array
+2) Two dimensional array/Double dimensional array/Multi dimensional
+
+Single dimensional array
+--------------------
+1) Declare an array
+2) insert values into array
+3) Find size of an array
+4) read values from an array
+
+Enhanced for loop/For..each loop
+
+Two Dimensional array
+------------------
+1) Declare an array
+2) insert values into array
+3) Find size of an array
+4) read values from an array
+
+-----------------------
+1) Search an element presence in array.
+2) Calculate sum of elemetns in array
+3) Find Even numbers in array
+
+Assignments
+----------
+1) Declare array with few elements, then find out nagitve and postive numbers
+2) Search a string in an array
+	string s[]={"welcome", "java", "selenium"}
+
+
+
+
+
+
+
